@@ -1,0 +1,5 @@
+# Essentials
+wheel
+
+# Project related
+qrcode[pil]
